@@ -3,7 +3,7 @@
 
 
 CodeForge AI is an interactive code review and chat assistant application. It allows users to write, review, and discuss their code with an AI assistant powered by an `get-review` backend. This app provides a seamless experience for coding, review, and AI-driven chat help.
-![ Banner](/public/banner.png)
+![ Banner](/frontend/public/banner.png)
 
 ## ✨ Features
 
